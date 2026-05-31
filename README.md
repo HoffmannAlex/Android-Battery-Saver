@@ -10,7 +10,7 @@
 
 | Home Dashboard | Memory Optimization | Power Management |
 |----------------|---------------------|------------------|
-| ![](screenshots/Home.png) | ![](screenshots/Memory_Lifee.png) | ![](screenshots/Power_Lifee.png) |
+| ![](Home.png) | ![](Memory_Lifee.png) | ![](Power_Lifee.png) |
 
 ### Home Dashboard
 Monitor battery level, battery life multiplier, charging estimates, and device usage statistics in real time.
